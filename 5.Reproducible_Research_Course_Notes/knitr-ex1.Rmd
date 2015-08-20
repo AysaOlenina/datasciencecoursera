@@ -1,0 +1,14 @@
+---
+title: "firstMD"
+author: "Aisa"
+date: "Monday, August 17, 2015"
+output: html_document
+---
+
+Here is a code chunk
+```{r}
+set.seed(1)
+x <- rnorm(100)
+mean(x)
+```
+
